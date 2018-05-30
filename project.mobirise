@@ -33,11 +33,11 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 132,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120008341-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120008341-1');\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "undefined",
@@ -731,7 +731,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "afbeelding 2",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1280,7 +1280,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "afbeelding 1",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2063,7 +2063,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "afbeelding 5",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -2927,7 +2927,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "afbeelding 4",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -3479,7 +3479,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "about",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -3893,7 +3893,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "afbeelding 3",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -4793,7 +4793,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "afbeelding 6",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
