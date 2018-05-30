@@ -4052,6 +4052,12 @@ body {
 .cid-qTmab2NRFS .mbr-text {
   text-align: left;
 }
+.cid-qTmab2NRFS .mbr-text DIV {
+  color: #232323;
+}
+.cid-qTmab2NRFS .mbr-text B {
+  color: #232323;
+}
 .cid-qTjVnCFIsH .navbar {
   background: #ffffff;
   transition: none;
@@ -5195,4 +5201,16 @@ body {
   .cid-qTme5uPQmd .image-block {
     width: 100% !important;
   }
+}
+.cid-qTxA32CuKG {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qTxA32CuKG .mbr-text,
+.cid-qTxA32CuKG blockquote {
+  color: #767676;
+}
+.cid-qTxA32CuKG .mbr-text {
+  color: #232323;
 }
